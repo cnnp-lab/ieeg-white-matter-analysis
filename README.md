@@ -3,7 +3,7 @@
 Analysis scripts for the paper:
 
 > **White matter connection abnormalities in seizure networks: associations with surgical outcome**
-> Hao Wang, Jonathan Horsley, Gerard Hall, Fahmida A. Chowdhury, Beate Diehl, John S. Duncan, Andrew W. McEvoy, Anna Miserocchi, Jane de Tisi, Yujiang Wang, Peter N. Taylor
+> Hao Wang, Jonathan Horsley, Gerard Hall, Fahmida A. Chowdhury, Beate Diehl, John S. Duncan, Andrew W. McEvoy, Anna Miserocchi, Jane de Tisi, Yujiang Wang, Peter N. Taylor.
 > *Epilepsia* (2026). https://doi.org/10.1002/epi.70631
 
 ## Contents
